@@ -11,7 +11,7 @@ MAS-DSE-LLM_Student_Improvement - Tim Harmon & Clinton Anderson
      Anonymized Math 3B Tutor Conversations Week 1-4.xlsx  
      Math 3B Anonymized Gradebook.xlsx  
   4. csv data/  
-     capstone_ai.csv 
+     capstone_ai.csv  
      capstone_none.csv  
      Grades-3B-May12-SP25.csv  
      Math 3B Anonimized Gradebook - Sheet2.csv  
