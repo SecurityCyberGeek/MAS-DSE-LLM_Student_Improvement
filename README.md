@@ -24,7 +24,7 @@ MAS-DSE-LLM_Student_Improvement - Tim Harmon & Clinton Anderson
      capstone_raw_conversations.csv  
      capstone_rawdata_questionanswer.csv  
   6. tableau/  
-     Math 3B Real Data Visualizations.twb
+     Math 3B Real Data Visualizations.twb  
      Math 3B Real Data Visualizations.twbx	
 
 To run, ensure that the all CSVs are accessibly by the notebooks. Google Colab was used, but a developer can modify the path to run in Jupyter Lab. Run Math 3B Cleaning to (re)create the CSVs "ai_chatTotal" and "no_ai_chatTotal". Run Math 3B Comparisons to view data exploration and basic graphs within the notebook (uses Plotyly and Seaborn)
