@@ -13,8 +13,7 @@ MAS-DSE-LLM_Student_Improvement - Tim Harmon & Clinton Anderson
   4. csv data/  
      capstone_ai.csv  
      capstone_none.csv  
-     Grades-3B-May12-SP25.csv  
-     Math 3B Anonimized Gradebook - Sheet2.csv  
+     Grades-3B-May12-SP25.csv    
      capstone_ai_chatTotal.csv  
      capstone_conversations_length.csv  
      capstone_conversations_studentsideon.csv  
