@@ -26,7 +26,7 @@ MAS-DSE-LLM_Student_Improvement - Tim Harmon & Clinton Anderson
      Math 3B Real Data Visualizations.twb  
      Math 3B Real Data Visualizations.twbx	
 
-To run, ensure that all of the CSVs are accessibly by the notebooks. Google Colab was used, but a developer can modify the path to run in Jupyter Lab. Run Math 3B Cleaning to (re)create the CSVs "ai_chatTotal" and "no_ai_chatTotal". Run Math 3B Comparisons to view data exploration and basic graphs within the notebook (uses Plotyly and Seaborn).
+To run, ensure that all of the CSVs are accessibly by the notebooks. Google Colab was used, but a developer can modify the path to run in Jupyter Lab. Run Math 3B Cleaning to (re)create the CSVs "ai_chatTotal" and "no_ai_chatTotal". Run Math 3B Comparisons to view data exploration and basic graphs within the notebook (uses Plotly and Seaborn).
 
 The Tableau visualization are included with 'extracted' files (i.e., .twbx can be run stand-alone). Add ai_chatTotal and no_ai_chatTotal, along with the remaining "capstone" CSVs in a licensed Tableau Desktop to modify these graphs or make additional ones. 
 
