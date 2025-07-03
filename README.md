@@ -1,6 +1,6 @@
 # MAS DSE Cohort 10 - Using LLMs to Improve Student Outcomes
 
-#### This project is to determine how many students use the AI tutor and if those students do better than the students who used Traditional Instruction. The following explains how to use this repository for any course. This repository is designed to help clean up the data from any course (UC San Diego's MATH 3B is used here), compare the data to understand both groups (AI and Non-AI), and finish with the tools to make the visualizations. These visualizations are the main point of the project to show the comparisons of the data.
+#### This project is to determine how many students use the AI tutor and if those students do better than the students who used Traditional Instruction. The following explains how to use this repository for any course. This repository is designed to help clean up the data from any course (UC San Diego's MATH 3B is used here), compare the data to understand both groups (AI and Non-AI), and finish with the tools to make the visualizations. These visualizations are the project's main, showing the comparisons of the data.
 
 MAS-DSE-LLM_Student_Improvement - Tim Harmon & Clinton Anderson  
   1. Final Report - Using LLMs to Improve Student Outcomes.pdf  
